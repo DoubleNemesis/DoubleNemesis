@@ -16,7 +16,7 @@ Typescript and NodeJS
 
 📫 You can find me:
 ---
-My on my [portfolio site](https://tomsclassroom.com/port/) and also on social media:
+On my [portfolio site](https://tomsclassroom.com/port/) and also on social media:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tpchant?style=social)](https://www.twitter.com/tpchant)
 
