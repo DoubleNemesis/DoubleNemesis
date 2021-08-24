@@ -20,7 +20,7 @@ On my [portfolio site](https://tomsclassroom.com/port/) and also on social media
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tpchant?style=social)](https://www.twitter.com/tpchant)
 
-[![YouTube Channel](https://img.shields.io/youtube/channel/views/UCSSNvHoAGsQLLgOaSjPcMIg?label=YouTube&style=social)](https://www.youtube.com/channel/UCSSNvHoAGsQLLgOaSjPcMIg)
+[![YouTube Channel](https://img.shields.io/youtube/channel/views/UCSSNvHoAGsQLLgOaSjPcMIg?label=YouTube%20Views&style=social)](https://www.youtube.com/channel/UCSSNvHoAGsQLLgOaSjPcMIg)
 
 
 ⚡ Fun facts:
