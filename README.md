@@ -18,6 +18,8 @@ Typescript and NodeJS
 ---
 On my [portfolio site](https://tomsclassroom.com/port/) and also on social media:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/thomas-chant-59b557a7/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/tpchant?style=social)](https://www.twitter.com/tpchant)
 
 [![YouTube Channel](https://img.shields.io/youtube/channel/views/UCSSNvHoAGsQLLgOaSjPcMIg?label=YouTube%20Views&style=social)](https://www.youtube.com/channel/UCSSNvHoAGsQLLgOaSjPcMIg)
