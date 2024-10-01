@@ -8,7 +8,8 @@ I'm Tom Chant, a teacher at Scrimba.com. I come from Exeter, in Devon, UK.
 
 🔭 Right now I’m working on...
 ---
-[Death in the City](https://tomsclassroom.com/deathinthecity/), a murder mystery puzzle-solving application aimed at learners of English. I'm building it in React.
+An Advanced JavaScript course
+Various other updates to Scrimba's Frontend Developer Career Path
 
 🌱 Right now I'm learning...
 ---
@@ -22,7 +23,11 @@ Typescript and NodeJS
 
 [![YouTube Channel](https://img.shields.io/youtube/channel/views/UCSSNvHoAGsQLLgOaSjPcMIg?label=YouTube%20Views&style=social)](https://www.youtube.com/channel/UCSSNvHoAGsQLLgOaSjPcMIg)
 
-On my [portfolio site](https://tomsclassroom.com/port/) and also on social media:
+On my [portfolio site](https://tomsclassroom.com/port/)
+
+🔭 A project I finished ages ago is:
+---
+[Death in the City](https://tomsclassroom.com/deathinthecity/), a murder mystery puzzle-solving application aimed at learners of English. I'm building it in React.
 
 ⚡ Fun facts:
 ---
