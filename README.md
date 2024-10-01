@@ -1,5 +1,5 @@
 ### Hey👋
-I'm Tom Chant, a teacher at [Scrimba.com](https://scrimba.com/). I come from Exeter, in Devon, UK 🏝️
+I'm Tom Chant, a teacher at [Scrimba.com](https://scrimba.com/). I come from the city of Exeter, in Devon, UK 🏝️
 
 🖥️ My stack is...
 -
