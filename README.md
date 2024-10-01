@@ -9,6 +9,7 @@ I'm Tom Chant, a teacher at [Scrimba.com](https://scrimba.com/). I come from the
 🔭 Right now I’m working on...
 ---
 An Advanced JavaScript course
+
 Various other updates to Scrimba's Frontend Developer Career Path
 
 🌱 Right now I'm learning...
