@@ -1,5 +1,5 @@
 ### Hey👋
-I'm Tom Chant, a front-end web-developer from Exeter, Devon UK specialising in ReactJS applications. 
+I'm Tom Chant, a teacher at Scrimba.com. I come from Exeter, in Devon, UK.
 
 🖥️ My stack is...
 -
@@ -16,14 +16,13 @@ Typescript and NodeJS
 
 📫 You can find me:
 ---
-On my [portfolio site](https://tomsclassroom.com/port/) and also on social media:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/thomas-chant-59b557a7/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tpchant?style=social)](https://www.twitter.com/tpchant)
 
 [![YouTube Channel](https://img.shields.io/youtube/channel/views/UCSSNvHoAGsQLLgOaSjPcMIg?label=YouTube%20Views&style=social)](https://www.youtube.com/channel/UCSSNvHoAGsQLLgOaSjPcMIg)
 
+On my [portfolio site](https://tomsclassroom.com/port/) and also on social media:
 
 ⚡ Fun facts:
 ---
@@ -31,7 +30,7 @@ Before becoming a web developer, I was an English teacher and I have a master's 
 
 ⚡ Work:
 ---
-I am accepting freelance projects at the moment as well as applying for permanent positions.
+I am not currently open to new work opportunities.
 
 <!--
 **DoubleNemesis/DoubleNemesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
