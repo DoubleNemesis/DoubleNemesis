@@ -14,7 +14,7 @@ Various other updates to Scrimba's Frontend Developer Career Path
 
 🌱 Right now I'm learning...
 ---
-Well, I never stop learning, but I most actively study NodeJS/Express when I get time!
+Never stop learning! I spend most time on Node/Express and also TypeScript these days.
 
 📫 You can find me:
 ---
